@@ -1,0 +1,1 @@
+Sample project using JMS for comunication bwtween microservices
